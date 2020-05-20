@@ -1,4 +1,4 @@
-include <../papyDoctorOSCADLib.scad>
+<../papyDoctorOSCADLib.scad>
 
 rext=3;
 
